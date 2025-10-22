@@ -58,7 +58,7 @@ Cada tabla se verifica y crea automáticamente si no existe.
 
 ---
 
-![Imagen(cap/Interfaz.png)]
+![Imagen](cap/Interfaz.png)
 
 
 
