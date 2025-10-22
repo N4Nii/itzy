@@ -57,7 +57,7 @@ Cada tabla se verifica y crea automáticamente si no existe.
 | 10 | **Mantenibilidad** | Estructura completamente orientada a objetos, lista para ampliarse fácilmente. |
 
 ---
-
+## Imagen
 ![Imagen](cap/terminal.png)
 
 
